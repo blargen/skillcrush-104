@@ -1,0 +1,42 @@
+.eben-advice {
+    border-radius: 25%;
+    color: white;
+    font-family: 'Impact', sans-serif;
+    margin: 30px;
+    padding:20px 40px;
+    background: rgb(251, 248, 41);
+}
+
+.eben-advice a {
+    color: #2cff10;
+}
+
+.eben-advice h1 {
+    color: #1110AD;
+    font-size: 30px;
+
+}
+
+.eben-advice h4 {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 185, 16);
+}
+
+.eben-advice p {
+    margin-bottom:50px;
+    font-style:italic;
+    font-family: 'Verdana', sans-serif;
+    color: #2cff10;
+}
+
+.eben-advice section {
+    border-radius: 25%;
+    background: #1110ad;
+    padding: 50px;
+}
+
+.eben-advice footer p{
+    color: white;
+    text-align: right;
+}
